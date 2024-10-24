@@ -17,9 +17,9 @@
 - Verifies that the `@` symbol is more than 6 characters from the end of the email.
 - Disallows spaces in the email address.
 
-## How to Use
+# Email Validation Script
 
-1. Clone the repository:
+![Sample Image](https://github.com/RAKESH-564/Email_Validator_project/blob/main/sample_image.jpeg)
 
-   ```bash
-   git clone https://github.com/RAKESH-564/Email_Validator_project.git
+
+
