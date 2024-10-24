@@ -21,5 +21,9 @@
 
 ![Sample Image](https://github.com/RAKESH-564/Email_Validator_project/blob/main/sample_image.jpeg)
 
+Demo Video:
+[Download the demo video](https://github.com/RAKESH-564/Email_Validator_project/blob/main/demo_video.mp4.mp4)
+
+
 
 
