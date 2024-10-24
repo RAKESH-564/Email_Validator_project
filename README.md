@@ -1,6 +1,6 @@
 # Email Validation Script
 
-This repository, **Email_Validator_project**, contains a Python script that validates an email address based on several criteria, ensuring that the email format adheres to common email standards. This script can be useful in applications where input email validation is necessary.
+ **Email_Validator_project**, contains a Python script that validates an email address based on several criteria, ensuring that the email format adheres to common email standards. This script can be useful in applications where input email validation is necessary.
 
 ## Features
 
